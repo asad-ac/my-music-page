@@ -125,11 +125,3 @@ http://localhost:5173
 * **Design & Prototyping:** Figma  
 * **Project Management & Collaboration:** Git, Notion  
 * **Assets & Media:** Pinterest images for playlist visuals
-
-## Future Enhancements
-
-* **Full API Integration:**  
-  Replace mock data with real backend endpoints for playlists, users, and media items.
-
-* **CRUD Functionality:**  
-  Implement full Create, Read, Update, and Delete operations for playlists and songs, enabling dynamic data management.
